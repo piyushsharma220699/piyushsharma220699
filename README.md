@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Piyush Sharma
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Profile" title="Linkedin Profile"/>](https://www.linkedin.com/in/piyushsharma220699/)
+[<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" title="YouTube Channel"/>](https://www.youtube.com/c/TechieSharma/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Profile" title="Linkedin Profile" target="_blank"/>](https://www.linkedin.com/in/piyushsharma220699/)
 
 <!--
 **piyushsharma220699/piyushsharma220699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
