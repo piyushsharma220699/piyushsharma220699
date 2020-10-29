@@ -6,7 +6,8 @@
 <i>Please feel free to clone projects, raise issues and submit PRs if you think something could be better!</i>
 </div>
 
-### About Me 
+### About Me 👨‍💻
+A Tech Enthusiast and a leader by nature, l have a keen interest in learning the latest technologies in the market. Being a writer, an actor and a motivator, I'm able to create a fun loving positive environment around myself wherever I go.
 
 ### Find me around the Web (I'll Love To Connect! 😄)
 [<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Techie Sharma" title="Techie Sharma"/>](https://www.youtube.com/c/TechieSharma/)
