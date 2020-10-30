@@ -10,10 +10,19 @@
 ### About Me 👨‍💻
 A Tech Enthusiast and a leader by nature, l have a keen interest in learning the latest technologies in the market. Being a writer, an actor and a motivator, I'm able to create a fun loving positive environment around myself wherever I go.
 
+### GitHub Profile Stats 📈
+<div align="center">
+  
+[![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyushsharma220699&count_private=true)](https://github.com/piyushsharma220699)
+
+</div>
+
 ### Find me around the Web (I'll Love To Connect! 😄)
 [<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Techie Sharma" title="Techie Sharma"/>](https://www.youtube.com/c/TechieSharma/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Profile" title="Linkedin Profile"/>](https://www.linkedin.com/in/piyushsharma220699/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile" title="Instagram Profile"/>](https://www.instagram.com/piyush_sharma226/)
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium Blog" title="Medium Blog"/>](https://medium.com/@piyushsharma220699)
+
 
 <!--
 **piyushsharma220699/piyushsharma220699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
