@@ -8,7 +8,7 @@
 </div>
 
 ### About Me 👨‍💻:
-A Tech Enthusiast and a leader by nature, l have a keen interest in learning the latest technologies in the market. Being a writer, an actor and a motivator, I'm able to create a fun loving positive environment around myself wherever I go.
+A Tech Enthusiast and a leader by nature, l have keen interest in learning the latest technologies in the market. Being a writer, an actor and a motivator, I'm able to create a fun loving positive environment around myself wherever I go.
 
 ### GitHub Profile Stats 📈:
 <div align="center">
