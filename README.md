@@ -2,6 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpiyushsharma220699%2Fhit-counter&count_bg=%2379C83D&title_bg=%234E5052&icon=&icon_color=%23E7E7E7&title=Visitors+Count&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/piyushsharma220699)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 
 <div align="center">
 <i>Please feel free to clone projects, raise issues and submit PRs if you think something could be better!</i>
