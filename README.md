@@ -9,6 +9,9 @@
 </div>
 
 ### About Me 👨‍💻:
+
+<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+
 A Tech enthusiast and a leader by nature, I have keen interest in learning the latest technologies in the market. Being a writer, an actor and a motivator, I'm able to create a fun loving positive environment around myself wherever I go.
 
 ### GitHub Profile Stats 📈:
